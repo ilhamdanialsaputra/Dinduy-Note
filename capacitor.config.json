@@ -1,0 +1,8 @@
+{
+  "appId": "com.dinduy.app",
+  "appName": "Dinduy",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
